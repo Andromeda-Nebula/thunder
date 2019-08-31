@@ -1,2 +1,2 @@
-# thunder
+# Thunder
 Fuse Connector
